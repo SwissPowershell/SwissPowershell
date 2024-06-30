@@ -14,6 +14,24 @@ As my reputation within the company grew, I was regularly called upon to provide
 
 Although my primary role today remains as an application packager, 90% of my activity is focused on implementing PowerShell solutions for workstation teams.
 
+# Experiences
+
+* Industrial Electronics
+* Leizure Electronics
+* Computer delivery and setup
+* L1 Global support
+* L2 Global support
+* L3 Global support
+* VIP support
+* DRP Project Manager
+* Windows Migration (too many)
+* Application silencing
+* Application packaging
+* Application virtualisation
+* Application delivery
+* Powershell automation
+* Powershell tooling
+
 # Scripting / Programming Languages
 
 | Batch | Visual Basic | Powershell | C# |
@@ -30,4 +48,22 @@ Although my primary role today remains as an application packager, 90% of my act
 
 | Sccm | XenApp | App-V | AppSense |
 |----- |--------- |------ |----- |
-|     |          |       |      |
+|      |          |       |      |
+
+# Reporting and dashboarding
+
+| Splunk | App-V | Powershell Universal |
+|------- |------ |--------------------- |
+|        |       |                      |
+
+# Sport and hobby
+
+* BMX Race
+* Snowboard
+* MMORPG
+
+# favorite country
+* 🇮🇹 Italy (because I love their cofee, wine, food. and I love italien way of life)
+
+
+
