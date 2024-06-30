@@ -14,10 +14,10 @@ As my reputation within the company grew, I was regularly called upon to provide
 
 Although my primary role today remains as an application packager, 90% of my activity is focused on implementing PowerShell solutions for workstation teams.
 
-# Language
+# Scripting / Programming Languages
 
-| Batch | Powershell | C# |
-|----------- |--- |--- |
-| ![](https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg)  | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg) |
+| Batch | Visual Basic | Powershell | C# |
+|----------- |--- |--- |--- |
+| ![](https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg) |![](https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg) |
 
 
