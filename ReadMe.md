@@ -1,6 +1,6 @@
 # Bio
 
-Born in 1977 in Switzerland, I am the son of a winemaker. I got married in 2015 and am a father of ❤️❤️. My professional journey began at the age of 16 with an apprenticeship in electronics at a company specializing in PAL/SECAM modifications and audio-video equipment repair. I then gained experience as a home computer installer within the same company.
+Born in 1977 in 🇨🇭, I am the son of a winemaker. I got married in 2015 and am a father of ❤️❤️. My professional journey began at the age of 16 with an apprenticeship in electronics at a company specializing in PAL/SECAM modifications and audio-video equipment repair. I then gained experience as a home computer installer within the same company.
 
 After a brief stint in the military, I was fortunate to make IT my career. I started in Level 2 support and later became a packager. During this time, I learned the MSI format and discovered that not all applications install their products in the same way. This led me to the technology of application virtualization with Softgrid, MS Softgrid, and finally MS App-V.
 
@@ -20,4 +20,14 @@ Although my primary role today remains as an application packager, 90% of my act
 |----------- |--- |--- |--- |
 | ![](https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg) |![](https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg) |
 
+# Packaging technologies
 
+| Msi | Softgrid | App-V | AppX | Msix |
+|---- |--------- |------ |----- |----- |
+|     |          |       |      |      |
+
+# Deployment and configuration Management
+
+| Sccm | XenApp | App-V | AppSense |
+|----- |--------- |------ |----- |
+|     |          |       |      |
