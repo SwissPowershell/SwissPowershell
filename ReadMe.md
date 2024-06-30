@@ -18,6 +18,6 @@ Although my primary role today remains as an application packager, 90% of my act
 
 | Batch | Powershell | C# |
 |----------- |--- |--- |
-| ![](https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg) |
+| ![](https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg)  | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg) |
 
 
