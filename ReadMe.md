@@ -14,21 +14,18 @@ As my reputation within the company grew, I was regularly called upon to provide
 
 Although my primary role today remains as an application packager, 90% of my activity is focused on implementing PowerShell solutions for workstation teams.
 
-# Experiences
+# Experiences over the years
 
-* Industrial Electronics
-* Leizure Electronics
-* Computer delivery and setup
 * L1 Global support
 * L2 Global support
 * L3 Global support
 * VIP support
-* DRP Project Manager
-* Windows Migration (too many)
+* DRP project manager
+* Windows migration (too many)
 * Application silencing
 * Application packaging
-* Application virtualisation
 * Application delivery
+* Application virtualisation
 * Powershell automation
 * Powershell tooling
 
@@ -61,9 +58,6 @@ Although my primary role today remains as an application packager, 90% of my act
 * BMX Race
 * Snowboard
 * MMORPG
-
-# favorite country
-* 🇮🇹 Italy (because I love their cofee, wine, food. and I love italien way of life)
 
 
 
