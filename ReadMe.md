@@ -32,7 +32,7 @@ Although my primary role today remains as an application packager, 90% of my act
 # Scripting / Programming Languages
 
 | Batch | Visual Basic | Powershell | C# | Python |
-|----------- |--- |--- |--- |--- |
+|------ |------------- |----------- |--- |------- |
 | ![](https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg) |![](https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) |
 
 # Packaging technologies
@@ -44,8 +44,8 @@ Although my primary role today remains as an application packager, 90% of my act
 # Deployment and configuration Management
 
 | Sccm | XenApp | App-V | AppSense |
-|----- |--------- |------ |----- |
-|      |          |       |      |
+|----- |------- |------ |--------- |
+|      |        |       |          |
 
 # Reporting and dashboarding
 
