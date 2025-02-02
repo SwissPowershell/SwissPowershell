@@ -1,6 +1,6 @@
 # Bio
 
-Born in 1977 in ![](https://github.com/lipis/flag-icons/blob/main/flags/1x1/ch.svg), I am the son of a winemaker. I got married in 2015 and am a father of ❤️❤️. My professional journey began at the age of 16 with an apprenticeship in electronics at a company specializing in PAL/SECAM modifications and audio-video equipment repair. I then gained experience as a home computer installer within the same company.
+Born in 1977 in ![](https://github.com/lipis/flag-icons/blob/main/flags/1x1/ch.svg) <img src="drawing.jpg" alt="drawing" width="5"/>, I am the son of a winemaker. I got married in 2015 and am a father of ❤️❤️. My professional journey began at the age of 16 with an apprenticeship in electronics at a company specializing in PAL/SECAM modifications and audio-video equipment repair. I then gained experience as a home computer installer within the same company.
 
 After a brief stint in the military, I was fortunate to make IT my career. I started in Level 2 support and later became a packager. During this time, I learned the MSI format and discovered that not all applications install their products in the same way. This led me to the technology of application virtualization with Softgrid, MS Softgrid, and finally MS App-V.
 
