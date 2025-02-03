@@ -45,8 +45,8 @@ Although my primary role today remains as an application packager, 90% of my act
 
 # Deployment and configuration Management
 
-| Sccm/Mecm | Citrix XenApp | MS App-V* | Ivanti AppSense |
-|---------- |-------------- |---------- |---------------- |
+| Sccm/Mecm/Intune | Citrix XenApp | MS App-V* | Ivanti AppSense |
+|----------------- |-------------- |---------- |---------------- |
 | <img src="./assets/sccm.png" alt="sccm" Height="70"> | <img src="./assets/XenApp.png" alt="XenApp" Height="70"> | <img src="./assets/appv.png" alt="AppVLogo" Height="70"> | <img src="./assets/Ivanti_Logo_RGB_red.svg.png" alt="IvantiLogo" Height="70"> |
 
 \* certified
