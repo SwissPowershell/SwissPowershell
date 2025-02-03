@@ -33,25 +33,25 @@ Although my primary role today remains as an application packager, 90% of my act
 
 | Batch | Visual Basic | Powershell | C# | Python |
 |------ |------------- |----------- |--- |------- |
-| ![](https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg) |![](https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) |
+| <img src="./assets/msdos-original.svg" alt="MSDosLogo" Height="70"> | <img src="./assets/visualbasic-original.svg" alt="VBLogo" Height="70"> | <img src="./assets/powershell-original.svg" alt="PowershellLogo" Height="70"> | <img src="./assets/csharp-plain.svg" alt="C#logo" Height="70"> | <img src="./assets//python-original.svg" alt="PythonLogo" Height="70"> |
 
 # Packaging technologies
 
-| Msi | Softgrid | App-V | AppX | Msix |
-|---- |--------- |------ |----- |----- |
-|     |          |       |      |      |
+| Msi | Softgrid | MS App-V | MS AppX | Msix |
+|---- |--------- |--------- |-------- |----- |
+| <img src="./assets/WindowsInstaller.png" alt="MSILogo" Height="70"> | <img src="./assets/softgrid.png" alt="SoftGridLogo" Height="70"> | <img src="./assets/appv.png" alt="AppVLogo" Height="70"> | <img src="./assets/msix.png" alt="AppxLogo" Height="70"> | <img src="./assets/msix.png" alt="MSIXLogo" Height="70"> |
 
 # Deployment and configuration Management
 
-| Sccm | XenApp | App-V | AppSense |
-|----- |------- |------ |--------- |
-|      |        |       |          |
+| Sccm/Mecm | Citrix XenApp | MS App-V | Ivanti AppSense |
+|---------- |-------------- |--------- |---------------- |
+| <img src="./assets/sccm.png" alt="sccm" Height="70"> | <img src="./assets/XenApp.png" alt="XenApp" Height="70"> | <img src="./assets/appv.png" alt="AppVLogo" Height="70"> | <img src="./assets/Ivanti_Logo_RGB_red.svg.png" alt="IvantiLogo" Height="70"> |
 
 # Reporting and dashboarding
 
-| Splunk | App-V | Powershell Universal |
-|------- |------ |--------------------- |
-|        |       |                      |
+| Splunk | MS App-V | Powershell Universal |
+|------- |--------- |--------------------- |
+| <img src="./assets/splunk.png" alt="Splunk" Height="70"> | <img src="./assets/appv.png" alt="AppVLogo" Height="70"> | <img src="./assets/PSU.png" alt="PsuLogo" Height="70"> |
 
 # Sport and hobby
 
