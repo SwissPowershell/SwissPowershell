@@ -37,27 +37,38 @@ Although my primary role today remains as an application packager, 90% of my act
 
 # Packaging technologies
 
-| Msi | Softgrid | MS App-V | MS AppX | Msix |
-|---- |--------- |--------- |-------- |----- |
+| Msi* | Softgrid* | MS App-V* | MS AppX | Msix |
+|----- |---------- |---------- |-------- |----- |
 | <img src="./assets/WindowsInstaller.png" alt="MSILogo" Height="70"> | <img src="./assets/softgrid.png" alt="SoftGridLogo" Height="70"> | <img src="./assets/appv.png" alt="AppVLogo" Height="70"> | <img src="./assets/msix.png" alt="AppxLogo" Height="70"> | <img src="./assets/msix.png" alt="MSIXLogo" Height="70"> |
+
+\* certified
 
 # Deployment and configuration Management
 
-| Sccm/Mecm | Citrix XenApp | MS App-V | Ivanti AppSense |
-|---------- |-------------- |--------- |---------------- |
+| Sccm/Mecm | Citrix XenApp | MS App-V* | Ivanti AppSense |
+|---------- |-------------- |---------- |---------------- |
 | <img src="./assets/sccm.png" alt="sccm" Height="70"> | <img src="./assets/XenApp.png" alt="XenApp" Height="70"> | <img src="./assets/appv.png" alt="AppVLogo" Height="70"> | <img src="./assets/Ivanti_Logo_RGB_red.svg.png" alt="IvantiLogo" Height="70"> |
+
+\* certified
 
 # Reporting and dashboarding
 
-| Splunk | MS App-V | Powershell Universal |
+| Splunk | MS App-V* | Powershell Universal |
 |------- |--------- |--------------------- |
 | <img src="./assets/splunk.png" alt="Splunk" Height="70"> | <img src="./assets/appv.png" alt="AppVLogo" Height="70"> | <img src="./assets/PSU.png" alt="PsuLogo" Height="70"> |
 
+\* certified
+
 # Sport and hobby
 
-* BMX Race
-* Snowboard
-* MMORPG
+* BMX Race *(3\* National third place, local trainer)* 
 
+<img src="./assets/BMX.webp" alt="BMX" Height="70">
 
+* Snowboard *(Freeride, Freestyle)*
 
+<img src="./assets/Snowboard.png" alt="Snowboard" Height="70">  
+
+* MMORPG *(Guild Master, Raid leader)* 
+
+<img src="./assets/Warlock_Icon_wow.webp" alt="Warlock" Height="70">
