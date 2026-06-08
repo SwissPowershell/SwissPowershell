@@ -12,7 +12,7 @@ The variety of technologies used in this solution (VMWare, WiX, MSI, App-V Seque
 
 As my reputation within the company grew, I was regularly called upon to provide efficient, easily debuggable, and reusable solutions for different teams.
 
-Although my primary role today remains as an application packager, 90% of my activity is focused on implementing PowerShell solutions for workstation teams.
+After 15 Year in packaging I jumped into the Workstation Devops Team with a focus on implementing PowerShell solutions for workstation teams.
 
 # Experiences over the years
 
