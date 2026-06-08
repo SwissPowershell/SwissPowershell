@@ -69,6 +69,6 @@ After 15 Year in packaging I jumped into the Workstation Devops with a focus on 
 
 <img src="./assets/Snowboard.png" alt="Snowboard" Height="70">  
 
-* MMORPG *(Guild Master, Raid leader)* 
+* MMORPG *(retired Guild Master & Raid leader)*
 
 <img src="./assets/Warlock_Icon_wow.webp" alt="Warlock" Height="70">
